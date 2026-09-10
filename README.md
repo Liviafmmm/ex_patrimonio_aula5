@@ -76,10 +76,10 @@ Também foram feitas algumas funções extras:
 
 text
 <br>GET /inventario/buscar?nome=Notebook<br>
-<br>GET /inventario/local?local=Laboratório<br>
-GET /inventario/acima?valor=3000
-GET /inventario/patrimonio?patrimonio=PAT-00125
-GET /inventario/total
+GET /inventario/local?local=Laboratório<br>
+GET /inventario/acima?valor=3000<br>
+GET /inventario/patrimonio?patrimonio=PAT-00125<br>
+GET /inventario/total<br>
 
 Essas rotas servem para pesquisar itens, filtrar por local, mostrar itens acima de determinado valor, verificar patrimônio e mostrar o valor total do inventário.
 
