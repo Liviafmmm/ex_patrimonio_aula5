@@ -64,7 +64,7 @@ GET /inventario/1
 ### Atualizar um item
 text
 PUT /inventario/1
-![put.png](../ex_patrimonio_aula5/put.png)
+![put.png](put.png)
 
 ### Excluir um item
 text
