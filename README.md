@@ -42,14 +42,14 @@ POST /inventario
 
 Exemplo:
 
-json
-{
-    "item": "Notebook Dell",
-    "local": "Laboratório 01",
-    "dataRegistro": "2026-09-10",
-    "valor": 3500,
-    "patrimonio": "PAT-00125"
-}
+json<br>
+{<br>
+    "item": "Notebook Dell",<br>
+    "local": "Laboratório 01",<br>
+    "dataRegistro": "2026-09-10",<br>
+    "valor": 3500,<br>
+    "patrimonio": "PAT-00125"<br>
+}<br>
 
 
 ### Mostrar todos os itens
