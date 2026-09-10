@@ -1,0 +1,16 @@
+{
+    "name": "inventario-pbe1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "dev": "node server.js"
+    },
+    "keywords": [],
+    "author": "Livia_fmmm",
+    "license": "ISC",
+    "type": "commonjs",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
