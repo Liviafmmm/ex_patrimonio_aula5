@@ -55,7 +55,7 @@ json<br>
 ### Mostrar todos os itens
 text
 GET /inventario
-![get intervalo.png](get intervalo.png)
+![get intervalo.png](getintervalo.png)
 
 ### Mostrar um item pelo ID
 text
