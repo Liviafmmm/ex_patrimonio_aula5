@@ -55,12 +55,12 @@ json
 ### Mostrar todos os itens
 text
 GET /inventario
-![get intervalo.png](./img/foto.png)
+![get intervalo.png](get intervalo.png)
 
 ### Mostrar um item pelo ID
 text
 GET /inventario/1
-![get2.png](./img/foto.png)
+![get2.png](get2.png)
 ### Atualizar um item
 text
 PUT /inventario/1
@@ -69,7 +69,7 @@ PUT /inventario/1
 ### Excluir um item
 text
 DELETE /inventario/1
-![delete.png](./img/delete.png)
+![delete.png](delete.png)
 
 ## Rotas extras
 Também foram feitas algumas funções extras:
