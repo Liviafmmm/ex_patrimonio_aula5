@@ -68,15 +68,15 @@ PUT /inventario/1
 
 ### Excluir um item
 text
-DELETE /inventario/1
+DELETE /inventario/2
 ![delete.png](delete.png)
 
 ## Rotas extras
 Também foram feitas algumas funções extras:
 
 text
-GET /inventario/buscar?nome=Notebook
-GET /inventario/local?local=Laboratório
+<br>GET /inventario/buscar?nome=Notebook<br>
+<br>GET /inventario/local?local=Laboratório<br>
 GET /inventario/acima?valor=3000
 GET /inventario/patrimonio?patrimonio=PAT-00125
 GET /inventario/total
